@@ -9,3 +9,7 @@ This repository contains practice code for learning Git and GitHub fundamentals.
 
 ## Notes
 This Project is part of GSOC preparation
+
+This is new vrsrion of day 14
+
+This contain the improve-version
